@@ -1,3 +1,5 @@
+# In Python, there are several ways to print multiple variables. Here are some examples:
+
 # Using the print() function and separating variables with commas:
 x = 10
 y = 20
