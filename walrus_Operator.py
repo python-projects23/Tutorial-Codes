@@ -8,9 +8,9 @@ variable inline. It can simplify your code
 """
 
 # Before Python 3.8
-# text = input('Enter something ')
-# if text is not None:
-#     print(text)
+text = input('Enter something ')
+if text is not None:
+    print(text)
 
 # Using Walrus operator
 while text := input('Enter something '):
